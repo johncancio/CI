@@ -11,6 +11,8 @@ public class ShoppingCartTest {
     private static Product product1;
     private static Product product2;
     private ShoppingCart cart;
+
+    error error error
  
     @BeforeClass
     public static void setUpBeforeClass() throws Exception {
